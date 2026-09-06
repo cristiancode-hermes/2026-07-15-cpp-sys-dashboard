@@ -1,0 +1,7 @@
+QA testing FAILED for 2026-07-15
+Project: cpp-sys-dashboard
+Build: ❌ (no source code)
+Tests: 0 (no test infrastructure)
+Issues: 🔥 CRITICAL — Daily Builder produced only empty scaffolding
+Root cause: src/, include/sysdashboard/, tests/, and docs/ are all empty directories.
+No design specs exist for this date.
